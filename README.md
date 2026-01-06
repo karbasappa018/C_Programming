@@ -1,0 +1,1 @@
+This repository includes C language programs created for practice and learning purposes. It covers fundamental concepts, logical implementations, and problem-based exercises developed during the study of C programming.
